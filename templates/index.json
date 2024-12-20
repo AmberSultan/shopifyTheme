@@ -7,8 +7,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Browse my latest products",
-            "heading_size": "h1"
+            "heading": "Here are latest products",
+            "heading_size": "h2"
           }
         }
       },
